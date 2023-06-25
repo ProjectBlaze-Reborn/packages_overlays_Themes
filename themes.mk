@@ -98,6 +98,21 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/prebuilt/pro
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilt/product/etc/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
 
+# Brightness slider styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderAcunOverlay \
+    BrightnessSliderBangOverlay \
+    BrightnessSliderCyberpunkOverlay \
+    BrightnessSliderFilledOverlay \
+    BrightnessSliderGradientRoundedBarOverlay \
+    BrightnessSliderLeafyOutlineOverlay \
+    BrightnessSliderMinimalThumbOverlay \
+    BrightnessSliderOutlineOverlay \
+    BrightnessSliderRoundedClipOverlay \
+    BrightnessSliderShadedOverlay \
+    BrightnessSliderThinOverlay \
+    BrightnessSliderTranslucentOverlay
+
 # Lockscreen Clock Fonts
 PRODUCT_PACKAGES += \
     ClockFontGoogleSansOverlay \
