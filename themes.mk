@@ -396,4 +396,6 @@ PRODUCT_PACKAGES += \
 
 # Navbar
 PRODUCT_PACKAGES += \
-    GesturalNavigationOverlayHidden
+    GesturalNavigationOverlayHidden \
+    NavBarGesturalNarrowSpaceOverlay \
+    NavBarGesturalNoSpaceOverlay
