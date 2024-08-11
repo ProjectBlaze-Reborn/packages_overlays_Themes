@@ -20,8 +20,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     HarmonyOS-Sans-Italic.ttf \
     HarmonyOS-Sans.ttf \
-    Lexend-VF.ttf \
-    Manrope-VF.ttf \
     RobotoFallback-VF.ttf
 
 # Font Overlays
@@ -29,8 +27,6 @@ PRODUCT_PACKAGES += \
     FontAccuratistOverlay \
     FontAclonicaOverlay \
     FontAmaranteOverlay \
-    FontArbutusSourceOverlay \
-    FontArvoLatoOverlay \
     FontBariolOverlay \
     FontBeautyOverlay \
     FontCagliostroOverlay \
@@ -58,7 +54,6 @@ PRODUCT_PACKAGES += \
     FontNokiaPureOverlay \
     FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \
-    FontNotoSerifSource \
     FontNunitoOverlay \
     FontOdudaOverlay \
     FontOnePlusSansOverlay \
@@ -73,7 +68,6 @@ PRODUCT_PACKAGES += \
     FontRobotoCondensedOverlay \
     FontRobotoOverlay \
     FontRosemaryOverlay \
-    FontRubikRubikOverlay \
     FontSamsungOneOverlay \
     FontSanFranciscoDisplayProSourceOverlay \
     FontSimpleDaySourceOverlay \
@@ -90,8 +84,6 @@ PRODUCT_PACKAGES += \
     FontJicaletaOverlay \
     FontJustSansOverlay \
     FontPunkMonoOverlay \
-    FontVladivostokOverlay \
-    FontDotComOverlay \
     FontAblaxOverlay \
     FontFreshLemonsOverlay \
     FontHumouresqueOverlay \
@@ -150,7 +142,6 @@ PRODUCT_PACKAGES += \
     ClockFontLiquidCrystalOverlay \
     ClockFontV5PRFOverlay \
     ClockFontZeroFourOverlay \
-    ClockFontSedgwickAveOverlay \
     ClockFontUnionOverlay \
     ClockFontAccuratistOverlay \
     ClockFontAclonicaOverlay \
@@ -314,23 +305,15 @@ PRODUCT_PACKAGES += \
 
 # Icon Shapes
 PRODUCT_PACKAGES += \
-    IconShapeFlowerOverlay \
-    IconShapeHeartOverlay \
-    IconShapeHexagonOverlay \
-    IconShapeCloudyOverlay \
     IconShapeCylindricalOverlay \
     IconShapeRiceBallsOverlay \
     IconShapeStretchedOverlay \
     IconShapePebbleOverlay \
     IconShapeRoundedRectOverlay \
     IconShapeSquircleOverlay \
-    IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
-    IconShapeVesselOverlay \
     IconShapeRoundedHexagonOverlay \
-    IconShapeScrollOverlay \
     IconShapeIosOverlay \
-    IconShapeRohieMeowOverlay \
     IconShapeLeafyOverlay
 
 # Navbar Styles
@@ -382,7 +365,6 @@ PRODUCT_PACKAGES += \
 
 # Data Icons
 PRODUCT_PACKAGES += \
-    IconDataDefault \
     IconDataFive \
     IconDataFour \
     IconDataOne \
