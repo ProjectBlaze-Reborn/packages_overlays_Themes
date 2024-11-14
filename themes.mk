@@ -390,10 +390,6 @@ PRODUCT_PACKAGES += \
 endif
 endif
 
-# A11QSUI
-PRODUCT_PACKAGES += \
-    A11QSUI
-
 # Navbar
 PRODUCT_PACKAGES += \
     GesturalNavigationOverlayHidden \
